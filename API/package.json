@@ -1,0 +1,9 @@
+{
+  "name": "ulsan-migrant-medical-helper",
+  "version": "1.0.0",
+  "description": "울산 외국인 근로자 AI 의료상담 & 센터 연계 도구 (Vercel 배포용)",
+  "private": true,
+  "engines": {
+    "node": ">=20"
+  }
+}
